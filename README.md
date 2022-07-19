@@ -1,5 +1,6 @@
 # credit_risk_analysis
 ## Overview
+The purpose of this analysis is to employ different techinques to train and evaluate models with unbalanced classes. These techniques will be used to evaluate the performance of the different models and help make a recommendation on whether the models should be used to help predict credit risk.
 
 ## Results
 
@@ -62,3 +63,4 @@
 - Precision is 99% with sensitivity of 91%
 
 ## Sumary
+Overall, most of the models show weak precision in determing credit risk. The low precision shows several credits being falsely detected as high risk, which would affect a bank's strategy and could affect revenue. It would not be recommended that the bank use these six models to help predict credit risk.
