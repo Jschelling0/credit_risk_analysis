@@ -30,7 +30,7 @@
 ![image](balanced_ensemble.png)
 
 ### 6. Easy Ensemble AdaBoost Classifier
-![image](report_easu.png)
+![image](report_easy.png)
 ![image](matrix_easy.png)
 
 
